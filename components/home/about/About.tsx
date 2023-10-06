@@ -14,8 +14,8 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Christian, if you haven&apos;t already figured that out already.
-              I&apos;m a software engineer, recent graduate from Coding Dojo.
+              Hey! Im Christian, if you havent already figured that out already.
+              Im a software engineer, recent graduate from Coding Dojo.
               I have a specialization in frontend development, coupled with proficiency in backend programming. 
               While my primary focus revolves around React, I am actively engaged in expanding my skill set to include Next.js
               and whatever is needed for the job!
@@ -31,7 +31,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m looking for opportunities that allow me to blend my strong work ethic and passion for coding.
+              Im looking for opportunities that allow me to blend my strong work ethic and passion for coding.
               Now that you've gotten a glimpse of who I am don't hesitate to contact me
               if there's an available opportunity and you're open to considering me, let's connect!
               🔗
