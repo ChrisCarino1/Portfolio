@@ -24,7 +24,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               Outside of coding, I am an aspiring day trader. 
-              I'm also a passionate reader in all things self-development and fully committed to my fitness at the gym.
+              I&apos;m also a passionate reader in all things self-development and fully committed to my fitness at the gym.
               Evidently, my strong commitment to personal growth is driven by my aspiration to become an outstanding individual.
               My ultimate goal is to contribute immense value to the lives of others.
             </p>
@@ -32,8 +32,8 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               Im looking for opportunities that allow me to blend my strong work ethic and passion for coding.
-              Now that you've gotten a glimpse of who I am don't hesitate to contact me
-              if there's an available opportunity and you're open to considering me, let's connect!
+              Now that you&apos;ve gotten a glimpse of who I am don&apos;t hesitate to contact me
+              if there&apos;s an available opportunity and you&apos;re open to considering me, let&apos;s connect!
               🔗
             </p>
           </Reveal>

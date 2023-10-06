@@ -38,7 +38,7 @@ const projects = [
         Integration of the Cloudinary API facilitates seamless image uploads to the database.
         </p>
         <p>
-        The application boasts a wide range of user-centric features, including follow and like capabilities, commenting, personalized 'For You' and 'Following' sections, as well as user profiles.
+        The application boasts a wide range of user-centric features, including follow and like capabilities, commenting, personalized &apos;For You&apos; and &apos;Following&apos; sections, as well as user profiles.
         </p>
       </>
     ),
